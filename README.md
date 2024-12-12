@@ -1,8 +1,8 @@
-# slidev-theme-starter
+# slidev-theme-jolicode
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-starter?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-starter)
+[![NPM version](https://img.shields.io/npm/v/slidev-theme-jolicode?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-jolicode)
 
-A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
+A JoliCode theme for [Slidev](https://github.com/slidevjs/slidev).
 
 <!--
   Learn more about how to write a theme:
@@ -24,7 +24,7 @@ A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
 Add the following frontmatter to your `slides.md`. Start Slidev then it will prompt you to install the theme automatically.
 
 <pre><code>---
-theme: <b>starter</b>
+theme: <b>jolicode</b>
 ---</code></pre>
 
 Learn more about [how to use a theme](https://sli.dev/guide/theme-addon#use-theme).
