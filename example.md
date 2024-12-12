@@ -2,6 +2,7 @@
 theme: ./
 ---
 
+<JoliCode />
 # Slidev <span class="accent">Theme</span> Starter
 
 Presentation slides for developers
